@@ -1,2 +1,1 @@
 # delphi
-high school
